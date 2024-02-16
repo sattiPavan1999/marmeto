@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgContainer {
+    /* Mobile Responsive */
+    position: relative;
+    width: 375px;
+    height: 1673px;
+    background: rgb(255, 251, 247);
+}
+
+.heading {
+    /* Aeezah. */
+    position: absolute;
+    width: 87px;
+    height: 43px;
+    left: 24px;
+    right: 264px;
+    top: 17px;
+    bottom: 1613px;
+    color: rgb(35, 34, 41);
+    font-family: Goldman;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 180%;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.small1 {
+    /* Vector */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 12.5%;
+    right: 12.5%;
+    top: 12.5%;
+    bottom: 12.5%;
+    background: rgb(35, 34, 41);
+}
+
+.line {
+    /* Vector 8 */
+    position: absolute;
+    width: 578px;
+    height: 0;
+    left: -79px;
+    top: 78px;
+    border: 2px solid rgb(243, 241, 239);
+}
+
+.rectBox {
+    /* Group 39701 */
+    position: absolute;
+    width: 417.53px;
+    height: 223px;
+    left: -6px;
+    right: -36.53px;
+    top: 114px;
+    bottom: 1336px;
+}
+
+.rectangleBox {
+    /* Group 220 */
+    position: absolute;
+    width: 323.41px;
+    height: 172.25px;
+    left: 24.28px;
+    right: 69.84px;
+    top: 130.73px;
+    bottom: -79.97px;
+}
+
+.line2 {
+    /* Vector 12 */
+    position: absolute;
+    width: 323.41px;
+    height: 0;
+    left: 24.28px;
+    top: 130.73px;
+    border: 0.6px solid rgb(35, 34, 41);
+}
+
+.line3 {
+    /* Group 220 */
+    position: absolute;
+    width: 323.41px;
+    height: 172.25px;
+    left: 24.28px;
+    right: 69.84px;
+    top: 130.73px;
+    bottom: -79.97px;
+}
+
+.image1 {
+    /* My project (11) 1 */
+    position: absolute;
+    width: 325.97px;
+    height: 282.9px;
+    left: 35.03px;
+    right: -10px;
+    top: 341px;
+    bottom: -334.47px;
+    background: url(My project (11));
+}
+
+.but1 {
+    /* Frame 29 */
+    position: absolute;
+    width: 146px;
+    height: 61px;
+    left: 26px;
+    right: 203px;
+    top: 678px;
+    bottom: 934px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14.25px;
+    box-shadow: 5.34px 5.34px 0px 0px rgb(254, 106, 58);
+    background: rgb(35, 34, 41);
+    color: white;
+}
+
+.first {
+    /* My project (11) 1 */
+    position: absolute;
+    width: 325.97px;
+    height: 282.9px;
+    left: 35.03px;
+    right: -10px;
+    top: 341px;
+    bottom: -334.47px;
+
+}
+
+.second {
+    /* My project (9) 1 */
+    position: absolute;
+    width: 202.64px;
+    height: 295.69px;
+    left: 83.4px;
+    right: 37.49px;
+    top: 788px;
+    bottom: -776.69px;
+    background: url(My project (9));
+}
+
+.yelloDIv {
+    /* Vector 10 */
+    position: absolute;
+    width: 323.52px;
+    height: 248.73px;
+    left: 26px;
+    top: 846.27px;
+    border-radius: 2.63px;
+    background: rgb(251, 200, 0);
+}
+
+.yell {
+    /* Group 39703 */
+    position: absolute;
+    width: 323.52px;
+    height: 307px;
+    left: 26px;
+    right: 25.48px;
+    top: 788px;
+    bottom: 578px;
+}
+
+.but2 {
+    /* Frame 30 */
+    position: absolute;
+    width: 146px;
+    height: 61px;
+    left: 204px;
+    top: 678px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14.25px;
+    box-sizing: border-box;
+    border: 0.89px solid rgb(0, 0, 0);
+
+}
